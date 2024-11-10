@@ -1,0 +1,3 @@
+Student ID: 2509, First Name: Lian, Last Name: Bosman, Age: 21, Course ID: PRG282
+Student ID: 2200, First Name: Nakkie, Last Name: Bruwer, Age: 23, Course ID: PRG282
+Student ID: 2102, First Name: Lian, Last Name: Bosman, Age: 30, Course ID: PRG282
